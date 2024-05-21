@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 	"strings"
-	"text-style-service/color"
+	"github.com/Fodi999/text-style-service/color"
 
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
