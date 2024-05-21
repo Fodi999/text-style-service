@@ -1,4 +1,4 @@
-module github.com/Fodi999/text-style-service
+module  github.com/Fodi999/text-style-service 
 
 go 1.22
 
